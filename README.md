@@ -50,9 +50,9 @@ The system reads operational data from an Excel file containing multiple workshe
 | Sheet | Description |
 |-----|-----|
 | EVs | Sales Executive performance metrics |
-| ECs | Channel Executive metrics |
+| ECs | Account Executive metrics |
 | SDRs | Sales Development metrics |
-| %Ating_Metas | Unit commercial targets |
+| %Ating_Metas | Commercial targets |
 | Página10 | Lead generation data |
 
 ---
@@ -157,7 +157,7 @@ Each commercial role uses a **different performance model**.
 
 ---
 
-# EC (Channel Executive)
+# EC (Account Executive)
 
 | Indicator | Weight |
 |------|------|
