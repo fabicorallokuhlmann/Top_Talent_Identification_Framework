@@ -16,7 +16,7 @@ This approach ensures a **fair, multi-dimensional evaluation** of employees acro
 Supported roles:
 
 - EV — Sales Executives  
-- EC — Channel Executives  
+- EC — Account Executives  
 - SDR — Sales Development Representatives
 
 ---
